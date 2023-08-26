@@ -1,7 +1,7 @@
 # Alexa Voice-Assistant
 <hr>
-<h3>Description-</h3>  This is a simple web-based calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication,division and modulus. The calculator provides a user-friendly interface with clickable buttons for numbers and operators, as well as keyboard support for input.
-<br>
+<h3>Description-</h3>  
+AI Assistant that actively listens and swiftly executes your commands. Experience seamless interaction with cutting-edge artificial intelligence technology. Say it, and watch it happen! 💬✨<br> Elevate your digital experience with hands-free convenience and powerful capabilities. Your voice, your commands, and a world of possibilities at your fingertips.
 <hr>
 <h3>Features-</h3>
 <ul>
