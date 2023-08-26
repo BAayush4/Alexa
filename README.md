@@ -12,7 +12,7 @@
 <li>Tell current time that is set in the system clock</li>
 <li>Open any software from the system</li>
 <li>Send mails to multiple user accounts</li>
-<li>Search for a movie ,get its plot and ratings</li>
+<li>Search for a movie ,get its plot and rating</li>
 </ul>  
 <hr>
 <h3><b>HOW TO VIEW MY PROJECT</b>?</h3>
