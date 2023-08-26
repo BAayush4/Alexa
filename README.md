@@ -10,7 +10,7 @@
 <li>Open Google</li>
 <li>Play music from a local directory in your system</li>
 <li>Tell current time that is set in the system clock</li>
-<li>Opens any software from the system</li>
+<li>Open any software from the system</li>
 <li>Send mails to multiple user accounts</li>
 <li>Search for a movie ,get its plot and ratings</li>
 </ul>  
