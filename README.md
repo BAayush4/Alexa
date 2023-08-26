@@ -19,7 +19,7 @@
 <ol>
   <li>Open my profile</li>
   <li>Go to  <b>"Repositories"</b></li>
-  <li>Select   <i><b>"Alexa Voice-Assistant"</b></i>   Repository</li>
+  <li>Select   <i><b>"Alexa-Voice-Assistant"</b></i>   Repository</li>
   <li>Change the branch from <i><b>"Main"</b></i>  to  <i><b>"Master"</b></i> </li>
   <li>Download <b><i>"Alexa.py"</i></b> file and run it on your system after installing required modules from python library.</li>
 </ol>
