@@ -3,7 +3,7 @@
 <h3>Description-</h3>  
 AI Assistant that actively listens and swiftly executes your commands. Experience seamless interaction with cutting-edge artificial intelligence technology. Say it, and watch it happen! 💬✨<br> Elevate your digital experience with hands-free convenience and powerful capabilities. Your voice, your commands, and a world of possibilities at your fingertips.
 <hr>
-<h3>Features-</h3>
+<h3>FEATURES-</h3>
 <ul>
 <li>Search Wikipedia</li>
 <li>Open and close Youtube</li>
