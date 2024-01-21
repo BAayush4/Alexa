@@ -6,13 +6,14 @@ AI Assistant that actively listens and swiftly executes your commands. Experienc
 <h3>Features-</h3>
 <ul>
 <li>Search Wikipedia</li>
-<li>Open Youtube</li>
-<li>Open Google</li>
+<li>Open and close Youtube</li>
+<li>Open and close Google</li>
 <li>Play music from a local directory in your system</li>
 <li>Tell current time that is set in the system clock</li>
 <li>Open any software from the system</li>
 <li>Send mails to multiple user accounts</li>
 <li>Search for a movie ,get its plot and rating</li>
+<li>Weather Forecast</li>
 </ul>  
 <hr>
 <h3><b>HOW TO VIEW MY PROJECT</b>?</h3>
