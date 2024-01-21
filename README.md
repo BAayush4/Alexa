@@ -16,13 +16,13 @@ AI Assistant that actively listens and swiftly executes your commands. Experienc
 <li>Weather Forecast</li>
 </ul>  
 <hr>
-<h3><b>HOW TO VIEW MY PROJECT</b>?</h3>
+<h3><b>APPLICATIONS</b>?</h3>
 <ol>
-  <li>Open my profile</li>
-  <li>Go to  <b>"Repositories"</b></li>
-  <li>Select   <i><b>"Alexa-Voice-Assistant"</b></i>   Repository</li>
-  <li>Change the branch from <i><b>"Main"</b></i>  to  <i><b>"Master"</b></i> </li>
-  <li>Download <b><i>"ALEXA.py"</i></b> file and run it on your system after installing required modules from python library.</li>
+  <li><b>Virtual Assistants:</b>Devices like Amazon Echo, Google Home, and Apple HomePod use speech recognition to understand and respond to voice commands, providing assistance with tasks like setting reminders, playing music, or providing weather updates.</li>
+  <li> <b>Healthcare:</b>In healthcare, speech recognition is used for medical transcription, enabling healthcare professionals to dictate notes and records, saving time and reducing the risk of errors.</li>
+  <li><b>Navigation Systems:</b>In-car navigation systems often use speech recognition to allow drivers to control various functions hands-free, such as making calls, setting destinations, or changing music.</li>
+  <li><b>Security and Authentication:</b>Voice recognition is used as a biometric authentication method for secure access to systems and devices. Voiceprints can be unique to individuals, enhancing security measures.</li>
+  <li><b>Voice Search:</b>Search engines and applications use speech recognition to process voice queries, providing users with search results and information based on spoken input.</li>
 </ol>
 <hr>
 <h3><b>LANGUAGES USED-</b></h3>
