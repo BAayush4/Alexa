@@ -16,7 +16,7 @@ AI Assistant that actively listens and swiftly executes your commands. Experienc
 <li>Weather Forecast</li>
 </ul>  
 <hr>
-<h3><b>APPLICATIONS</b>?</h3>
+<h3><b>APPLICATIONS</b></h3>
 <ol>
   <li><b>Virtual Assistants:</b>Devices like Amazon Echo, Google Home, and Apple HomePod use speech recognition to understand and respond to voice commands, providing assistance with tasks like setting reminders, playing music, or providing weather updates.</li>
   <li> <b>Healthcare:</b>In healthcare, speech recognition is used for medical transcription, enabling healthcare professionals to dictate notes and records, saving time and reducing the risk of errors.</li>
